@@ -1,0 +1,20 @@
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* gap: 56px; */
+}
+
+.grid {
+    padding: 31px;
+    border: 2px solid blue;
+    margin: 1px;
+    background-color: black;
+    margin: 0;
+
+}
+
+.change {
+    background-color: white;
+}
